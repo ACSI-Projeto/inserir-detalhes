@@ -1,0 +1,23 @@
+[
+  {
+    "zonaId": "Z001",
+    "nomeZona": "Chiado",
+    "tempoGratisMinutos": 15,
+    "precoHora": 2.0,
+    "valorCoimaBase": 0.5
+  },
+  {
+    "zonaId": "Z002",
+    "nomeZona": "Bairro Alto",
+    "tempoGratisMinutos": 10,
+    "precoHora": 1.8,
+    "valorCoimaBase": 0.3
+  },
+  {
+    "zonaId": "Z003",
+    "nomeZona": "Alfama",
+    "tempoGratisMinutos": 20,
+    "precoHora": 1.5,
+    "valorCoimaBase": 0.2
+  }
+]

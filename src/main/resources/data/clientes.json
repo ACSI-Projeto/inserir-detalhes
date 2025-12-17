@@ -1,0 +1,32 @@
+[
+  {
+    "tipo": "cliente",
+    "idCliente": 1,
+    "nome": "João Silva",
+    "email": "joao.silva@email.com",
+    "passeResidente": true,
+    "validadePass": "2026-12-31",
+    "insencao": false,
+    "tipoInsencao": null
+  },
+  {
+    "tipo": "cliente",
+    "idCliente": 2,
+    "nome": "Maria Fernandes",
+    "email": "maria.fernandes@email.com",
+    "passeResidente": false,
+    "validadePass": null,
+    "insencao": true,
+    "tipoInsencao": "Deficiencia"
+  },
+  {
+    "tipo": "cliente",
+    "idCliente": 3,
+    "nome": "Carlos Mendes",
+    "email": "carlos.mendes@email.com",
+    "passeResidente": true,
+    "validadePass": "2025-06-30",
+    "insencao": true,
+    "tipoInsencao": "ServicoPublico"
+  }
+]

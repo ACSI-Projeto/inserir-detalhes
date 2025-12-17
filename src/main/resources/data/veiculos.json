@@ -1,0 +1,42 @@
+[
+  {
+    "tipo": "veiculo",
+    "idVeiculo": 101,
+    "idCliente": 1,
+    "tipoVeiculo": "Ligeiro",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "cor": "Branco",
+    "matricula": "AB-12-CD"
+  },
+  {
+    "tipo": "veiculo",
+    "idVeiculo": 102,
+    "idCliente": 1,
+    "tipoVeiculo": "Motociclo",
+    "marca": "Honda",
+    "modelo": "CB500",
+    "cor": "Preto",
+    "matricula": "EF-34-GH"
+  },
+  {
+    "tipo": "veiculo",
+    "idVeiculo": 103,
+    "idCliente": 2,
+    "tipoVeiculo": "Ligeiro",
+    "marca": "Renault",
+    "modelo": "Clio",
+    "cor": "Vermelho",
+    "matricula": "IJ-56-KL"
+  },
+  {
+    "tipo": "veiculo",
+    "idVeiculo": 104,
+    "idCliente": 3,
+    "tipoVeiculo": "Ligeiro",
+    "marca": "Tesla",
+    "modelo": "Model 3",
+    "cor": "Azul",
+    "matricula": "MN-78-OP"
+  }
+]

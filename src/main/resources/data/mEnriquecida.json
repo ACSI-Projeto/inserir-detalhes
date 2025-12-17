@@ -1,0 +1,41 @@
+{
+  "tipo": "mEnriquecida",
+  "id": 1,
+  "multa": {
+    "tipo": "multa",
+    "idMulta": 0,
+    "matricula": "AB-12-CD",
+    "lugarId": 1,
+    "zonaTarifaria": "Alfama",
+    "dataHoraDeteccao": 1765831034000,
+    "razoePrimariaMulta": "Estacionamento indevido",
+    "confianca": 0.95
+  },
+  "cliente": {
+    "tipo": "cliente",
+    "idCliente": 1,
+    "nome": "João Silva",
+    "email": "joao.silva@email.com",
+    "validadePass": "2026-12-31",
+    "tipoInsencao": null,
+    "insencao": false,
+    "passeResidente": true
+  },
+  "veiculo": {
+    "tipo": "veiculo",
+    "idVeiculo": 101,
+    "idCliente": 1,
+    "matricula": "AB-12-CD",
+    "tipoVeiculo": "Ligeiro",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "cor": "Branco"
+  },
+  "local": {
+    "zonaId": "Z003",
+    "nomeZona": "Alfama",
+    "tempoGratisMinutos": 20,
+    "precoHora": 1.5,
+    "valorCoimaBase": 0.2
+  }
+}
