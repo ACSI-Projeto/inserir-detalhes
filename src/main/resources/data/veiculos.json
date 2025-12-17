@@ -4,10 +4,10 @@
     "idVeiculo": 101,
     "idCliente": 1,
     "tipoVeiculo": "Ligeiro",
-    "marca": "Toyota",
-    "modelo": "Corolla",
-    "cor": "Branco",
-    "matricula": "AB-12-CD"
+    "marca": "LANDROVER",
+    "modelo": "Defender",
+    "cor": "Castanho",
+    "matricula": "AB78NA"
   },
   {
     "tipo": "veiculo",
@@ -17,7 +17,7 @@
     "marca": "Honda",
     "modelo": "CB500",
     "cor": "Preto",
-    "matricula": "EF-34-GH"
+    "matricula": "EF34GH"
   },
   {
     "tipo": "veiculo",
@@ -27,7 +27,7 @@
     "marca": "Renault",
     "modelo": "Clio",
     "cor": "Vermelho",
-    "matricula": "IJ-56-KL"
+    "matricula": "IJ56KL"
   },
   {
     "tipo": "veiculo",

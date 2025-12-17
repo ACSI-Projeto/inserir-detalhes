@@ -31,9 +31,9 @@ public class MultaProducer implements CommandLineRunner {
         );
         Multa multa = new Multa(
             "0", // idMulta
-            "ABC1234", // matricula
+            "AB-12-CD", // matricula
             "A", // lugarId
-            "ZONA_A", // zonaTarifaria
+            "Alfama", // zonaTarifaria
             dataHoraDeteccao, // dataHoraDeteccao
             "ESTACIONAMENTO_PROIBIDO", // razaoPrimariaMulta
             0.95f, // confianca
